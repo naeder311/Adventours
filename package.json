@@ -1,7 +1,7 @@
 {
-  "name": "natours",
+  "name": "adventourss",
   "version": "1.0.0",
-  "description": "landing page for natours",
+  "description": "landing page for adventourss",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass main.scss css/style.css -w",
@@ -18,7 +18,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.13",
     "concat": "^1.0.3",
-    "node-sass": "^8.0.0",
+    "node-sass":	"^7.0.3",
     "postcss-cli": "^10.1.0"
   },
   "dependencies": {
